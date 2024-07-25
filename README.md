@@ -12,3 +12,5 @@ Canais de contato do desenvolvedor: <br/>
 O FiscalTools possui [Licença MIT](https://github.com/BrunoGFonseca/FiscalTools/blob/main/LICENSE)
 
 ## Novidades
+
+Arquivo read me modificado
